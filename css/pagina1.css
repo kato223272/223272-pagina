@@ -1,0 +1,21 @@
+body{
+    background: rgb(237,243,194);
+background: radial-gradient(circle, rgba(237,243,194,0.9557072829131653) 38%, rgba(202,200,174,0.9557072829131653) 100%);
+margin-left: 10%;
+} */
+
+#titulo{
+    margin-left: 30%;
+}
+
+#efecto-apellido{
+   border-radius: 10%;
+   border-color: aliceblue;
+   outline: none;
+}
+
+#efecto-nombre{
+    border-radius: 10%;
+    border-color: aliceblue;
+    outline: none;
+}
